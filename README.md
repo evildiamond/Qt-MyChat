@@ -5,5 +5,5 @@
 还未添加数据库，密码随便写就能登录进去
 
 ![image](https://github.com/luricheng/Qt-MyChat/raw/master/screenshot/login.png)
-![image](https://github.com/luricheng/Qt-MyChat/raw/master/screenshot/chatWin.png)
+![image](https://github.com/luricheng/Qt-MyChat/raw/master/screenshot/mainWin.png)
 ![image](https://github.com/luricheng/Qt-MyChat/raw/master/screenshot/chatWin.png)
